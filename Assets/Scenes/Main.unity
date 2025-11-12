@@ -2281,7 +2281,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 928590845}
         m_TargetAssemblyTypeName: UIMainScene, Assembly-CSharp
-        m_MethodName: StopAllCoroutines
+        m_MethodName: StartNew
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
